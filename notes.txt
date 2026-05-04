@@ -1,0 +1,12 @@
+i learned how to add files and make commits then push into public repo
+
+
+difference between git and github 
+  git is a version control who stores in  your local updates or changes in your code or project 
+  github is aplatform hosting repostiry in online 
+
+
+
+
+  what is commit  is a snapshot in current satiation in your project you return back when it needed
+
